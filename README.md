@@ -8,3 +8,4 @@ So's note:
 1. Adding font
 2. clsx, conditioning styling
 3. <Link> allows you to do client-side navigation with JavaScript, while <a> refresh page
+4. confirm github is working.
