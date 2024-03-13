@@ -8,4 +8,6 @@ So's note:
 1. Adding font
 2. clsx, conditioning styling
 3. <Link> allows you to do client-side navigation with JavaScript, while <a> refresh page
-4. confirm github is working.
+4. confirm github is working. 
+5. Chapter 7 fetching data
+6. Only 1 database could be created and the database is share with the nextjs project.
