@@ -22,3 +22,4 @@ URLSearchParams is a Web API that provides utility methods for manipulating the 
 <Search> is a Client Component, so you used the useSearchParams() hook to access the params from the client.
 <Table> is a Server Component that fetches its own data, so you can pass the searchParams prop from the page to the component.
 import { useDebouncedCallback } from 'use-debounce';
+Complete chapter 12 with zod and form data handling
