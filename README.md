@@ -23,3 +23,4 @@ URLSearchParams is a Web API that provides utility methods for manipulating the 
 <Table> is a Server Component that fetches its own data, so you can pass the searchParams prop from the page to the component.
 import { useDebouncedCallback } from 'use-debounce';
 Complete chapter 12 with zod and form data handling
+Complete chapter 13 with error and not-found
